@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher/blog/blog2</id>
+    <id>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher-binary/blog/blog2</id>
     <title>Golang from Beginner to Gopher Blog</title>
     <updated>2024-01-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tomatoduck2024.github.io/golang-from-beginner-to-gopher/blog/blog2"/>
+    <link rel="alternate" href="https://tomatoduck2024.github.io/golang-from-beginner-to-gopher-binary/blog/blog2"/>
     <subtitle>Golang from Beginner to Gopher Blog</subtitle>
-    <icon>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher/img/favicon.ico</icon>
+    <icon>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher-binary/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome to Blog 2]]></title>
-        <id>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher/blog/blog2/welcome-blog2</id>
-        <link href="https://tomatoduck2024.github.io/golang-from-beginner-to-gopher/blog/blog2/welcome-blog2"/>
+        <id>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher-binary/blog/blog2/welcome-blog2</id>
+        <link href="https://tomatoduck2024.github.io/golang-from-beginner-to-gopher-binary/blog/blog2/welcome-blog2"/>
         <updated>2024-01-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the first post in our second blog instance.]]></summary>
         <content type="html"><![CDATA[<p>This is the first post in our second blog instance.</p>]]></content>

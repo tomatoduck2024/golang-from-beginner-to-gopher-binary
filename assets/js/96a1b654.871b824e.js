@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolang_from_beginner_to_gopher=self.webpackChunkgolang_from_beginner_to_gopher||[]).push([[6287],{450:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/golang-from-beginner-to-gopher-binary/blog/blog1","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

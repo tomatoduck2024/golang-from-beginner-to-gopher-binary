@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolang_from_beginner_to_gopher=self.webpackChunkgolang_from_beginner_to_gopher||[]).push([[38],{4817:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to Blog 2","permalink":"/golang-from-beginner-to-gopher-binary/blog/blog2/welcome-blog2","unlisted":false,"date":"2024-01-02T00:00:00.000Z"}]}')}}]);

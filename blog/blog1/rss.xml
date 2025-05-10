@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Golang from Beginner to Gopher Blog</title>
-        <link>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher/blog/blog1</link>
+        <link>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher-binary/blog/blog1</link>
         <description>Golang from Beginner to Gopher Blog</description>
         <lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome to Blog 1]]></title>
-            <link>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher/blog/blog1/welcome-blog1</link>
-            <guid>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher/blog/blog1/welcome-blog1</guid>
+            <link>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher-binary/blog/blog1/welcome-blog1</link>
+            <guid>https://tomatoduck2024.github.io/golang-from-beginner-to-gopher-binary/blog/blog1/welcome-blog1</guid>
             <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the first post in our first blog instance.]]></description>
             <content:encoded><![CDATA[<p>This is the first post in our first blog instance.</p>]]></content:encoded>
