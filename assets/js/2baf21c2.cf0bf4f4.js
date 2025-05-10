@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolang_from_beginner_to_gopher=self.webpackChunkgolang_from_beginner_to_gopher||[]).push([[582],{4139:o=>{o.exports=JSON.parse('{"tags":[{"label":"hello","permalink":"/golang-from-beginner-to-gopher/blog/blog1/tags/hello","count":1},{"label":"blog1","permalink":"/golang-from-beginner-to-gopher/blog/blog1/tags/blog-1","count":1}]}')}}]);

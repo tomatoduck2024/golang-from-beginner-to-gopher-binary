@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgolang_from_beginner_to_gopher=self.webpackChunkgolang_from_beginner_to_gopher||[]).push([[3710],{5297:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"datastructure"}')}}]);
